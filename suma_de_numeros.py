@@ -1,0 +1,5 @@
+num1= float (input ("ingresa un numero:"))
+num2= float (input ("ingresa siguiente numero"))
+num3= float (input ("ingresa siguiente numero"))
+resp = (num1 + num2 + num3)
+print ( "sumando" , num1 , num2 , "y" , num3 ,"su resultado es " ,resp)
